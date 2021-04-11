@@ -1,0 +1,12 @@
+-- selecionar diretorio
+$ cd C:/src
+
+-- Login com Usuario e E-mail cadastrado no GitHub
+$ git config --global user.name "iago515"
+$ git config --global user.email "iago.figueiredo515@gmail.com"
+
+--consultar status dos arquivos
+$ git status
+
+-- compartilhar arquivos
+$ git add .

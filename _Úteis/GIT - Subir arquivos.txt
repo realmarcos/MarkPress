@@ -13,3 +13,6 @@ $ git add .
 
 -- iniciar o repositorio e verificar mudanças
 $ git init
+
+-- mostrar diferenças antes do envio
+$ git diff

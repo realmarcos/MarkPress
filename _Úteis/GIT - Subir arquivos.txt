@@ -8,5 +8,8 @@ $ git config --global user.email "iago.figueiredo515@gmail.com"
 --consultar status dos arquivos
 $ git status
 
--- compartilhar arquivos
+-- adicionar arquivos apra compartilhamento
 $ git add .
+
+-- iniciar o repositorio e verificar mudanças
+$ git init
